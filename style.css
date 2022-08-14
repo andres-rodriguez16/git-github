@@ -31,3 +31,6 @@ body{
   font-size: 20px;
   box-shadow:3px 3px rgb(17, 17, 17) ;
 }
+.footer {
+  text-align: center;
+}
