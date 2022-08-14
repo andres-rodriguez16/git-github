@@ -17,7 +17,7 @@ body{
   font-size: 20px;
 }
 
-#container p{
+#post p{
   color: blue;
   font-family: 'Times New Roman', Times, serif;
 
@@ -28,4 +28,12 @@ body{
   padding: 20px;
   font-size: 20px;
   box-shadow:3px 3px rgb(17, 17, 17) ;
+}
+
+.footer {
+  background-color: blueviolet;
+  text-align: center;
+}
+.footer p{
+  color: white;
 }
