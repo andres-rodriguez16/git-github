@@ -19,7 +19,7 @@ body{
   font-size: 20px;
 }
 
-#container p{
+#post p{
   color: blue;
   font-family: 'Times New Roman', Times, serif;
 
@@ -29,10 +29,5 @@ body{
   color: antiquewhite;
   padding: 20px;
   font-size: 20px;
-  box-shadow:3px 3px rgb(17, 17, 17);
-  display: flex;
-}
-#cabecera .img {
-  width: 40px;
- vertical-align: middle;
+  box-shadow:3px 3px rgb(17, 17, 17) ;
 }
