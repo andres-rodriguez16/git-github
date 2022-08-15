@@ -33,4 +33,12 @@ body{
 }
 .footer {
   text-align: center;
+  background-color: blueviolet;
+}
+.footer p{
+  color: wheat;
+}
+.img {
+  width: 40px;
+  vertical-align: middle;
 }
