@@ -26,3 +26,8 @@
 - git log.
 - git log --all.
 - git status.
+- git rebase.
+- git stash.
+- git stash pop.
+- git stasg list, drop.
+- git show. 
