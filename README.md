@@ -1,14 +1,14 @@
-# Hyperblog.
+# Hyperblog
 
 ------------
  *Este es un ejemplo de como hacer un blog de prueba, trabajando con el curso de git y github de platzi. En donde estoy aprediendo los comandos basicos de git y el manejo de la consola.*
- 
- *En este repo se muesta mi primeros pasos de como trabajar con control de versiones con git y github.*
+
+ *En este repo se muesta mi primeros pasos de como trabajar con control de versiones con git y github. Estos conocimientos me van hacer muy util en un futuro empleo.*
  [![git](https://git-scm.com/images/logo@2x.png "git")](http://https://git-scm.com/images/logo@2x.png "git")
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" width="100" >
 </div>
 
-## Comandos basicos.
+## Comandos basicos
 
 ------------
 
@@ -30,4 +30,4 @@
 - git stash.
 - git stash pop.
 - git stasg list, drop.
-- git show. 
+- git show.
