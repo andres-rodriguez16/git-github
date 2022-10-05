@@ -12,6 +12,9 @@
 
 ------------
 
+- git log.
+- git log --all
+- git log --oneline
 - git pull.
 - git add .
 - git commit -m "infomarción del commit".
